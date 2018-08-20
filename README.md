@@ -47,4 +47,6 @@ AWS Concepts, AWS Provider, Immutable Infra, and a Pipeline using AWS.
 
 # Kubernetes
 - Containerize services
-- Installing V1 and V2 to know the differences. 
+- Installing V1 and V2 to know the differences.
+- Deploy kub V2 via git hub
+- deploy kub V2 via Docker. 

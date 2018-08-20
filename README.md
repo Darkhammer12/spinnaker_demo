@@ -10,7 +10,7 @@ AWS Concepts, AWS Provider, Immutable Infra, and a Pipeline using AWS.
 - VPC
 - Ec2 IAM Role
 - EC2 Key pair
-- AMI's
+- AMI's with Packer
 - S2
 - Access Keys
 

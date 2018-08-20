@@ -15,3 +15,8 @@ AWS Concepts, AWS Provider, Immutable Infra, and a Pipeline using AWS.
 - Access Keys
 
 # Spinnaker with Jenkins
+
+- Install Jenkins
+- Integrating Jenkins
+- Build Debian file
+- Baking AMI's

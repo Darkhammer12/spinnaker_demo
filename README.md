@@ -44,3 +44,7 @@ AWS Concepts, AWS Provider, Immutable Infra, and a Pipeline using AWS.
 - Stage Webhook
 
 - Build a pipeline, with Roll back and notifications with Echo service (emails)
+
+# Kubernetes
+- Containerize services
+- Installing V1 and V2 to know the differences. 

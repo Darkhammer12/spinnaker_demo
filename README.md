@@ -21,4 +21,10 @@ AWS Concepts, AWS Provider, Immutable Infra, and a Pipeline using AWS.
 - Build Debian file
 - Baking AMI's
 
-#
+# Building Pipelines
+- Stage Bake:Rosco(spinnaker) and packer (Hashicorp) baking an image
+- Stage Check: Preconditions
+- Stage Clone: a server group ( good for multi region)
+- Stage Deploy:
+- Stage Destroy Server Group:
+- Stage Disable Cluster
